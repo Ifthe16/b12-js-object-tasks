@@ -1,3 +1,4 @@
+/* Task-02 */
 const car = {
     make: "Toyota",
     model: "Corolla",
